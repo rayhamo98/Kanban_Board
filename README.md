@@ -25,6 +25,7 @@ You can download it from my Github repository.
 you can easily created a ticket whichever you need. To do, in progress or finished. You can put your own tittle and once the ticket is created you can view everything you can also delete tickets or edit. 
 
 ## video walk though
+https://rayhamo98.github.io/Kanban_Board/
 
 
 ## github
